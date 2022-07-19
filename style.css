@@ -29,6 +29,8 @@ body{
     flex-wrap: wrap;
     min-height: 250px;
     margin-top: 60px;
+    margin-left: 4%;
+    margin-right: 4%;
 }
 
 .row2{
@@ -40,12 +42,12 @@ body{
 }
 
 .flex1{
-    width: 500px;
+    width: 600px;
     height: 200px;
 }
 
 .flex2{
-    width: 500px;
+    width: 600px;
     height: 150px;
     display: flex;
     flex-wrap: wrap;
@@ -154,7 +156,7 @@ body{
     height: 50px;
 }
 
-@media screen and (max-width: 1017px) {
+@media screen and (max-width: 1321px) {
     *{
         text-align: center;
     }
